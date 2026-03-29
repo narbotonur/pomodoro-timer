@@ -1,3 +1,7 @@
+## Preview
+
+![App Screenshot](./preview.png)
+
 # Pomodoro Timer
 
 A modern Pomodoro Timer web app with:
