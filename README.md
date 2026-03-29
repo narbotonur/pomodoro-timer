@@ -15,4 +15,4 @@ A modern Pomodoro Timer web app with:
 - JavaScript
 
 ## Live Demo
-https://username.github.io/pomodoro-timer/
+https://narbotonur.github.io/pomodoro-timer/
